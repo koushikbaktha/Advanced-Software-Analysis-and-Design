@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Koushik_Bakthavathsalam_BMI Calculator Project'
